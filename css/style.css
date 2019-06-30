@@ -3,3 +3,7 @@ h2, h3 {
 	text-align: center;
 	text-shadow: 1px 1px 20px grey;
 }
+
+p {
+	text-align: center;
+}
