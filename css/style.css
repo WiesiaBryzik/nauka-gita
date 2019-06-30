@@ -1,0 +1,5 @@
+h2, h3 {
+	text-decoration: underline;
+	text-align: center;
+	text-shadow: 1px 1px 20px grey;
+}
