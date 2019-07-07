@@ -1,0 +1,13 @@
+Przyk³adowa komenda narzêdzia Autoprefixer CLI
+
+autoprefixer-cli -o main.prefixed.css main.css
+
+
+
+
+Przyk³adowa komenda narzêdzia nu-html-checker
+
+nu-html-checker --formatter stylish
+
+
+nu-html-checker --formatter json
